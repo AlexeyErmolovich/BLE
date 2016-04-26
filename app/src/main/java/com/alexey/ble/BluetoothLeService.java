@@ -23,6 +23,9 @@ public class BluetoothLeService extends Service {
 
     private final static String TAG = BluetoothLeService.class.getSimpleName();
     private final static String TAG_COPY = BluetoothLeService.class.getSimpleName();
+    private final static String TAG_COPY2 = BluetoothLeService.class.getSimpleName();
+    private final static String TAG_COPY3 = BluetoothLeService.class.getSimpleName();
+    private final static String TAG_COPY4 = BluetoothLeService.class.getSimpleName();
 
     private BluetoothManager mBluetoothManager;
     private BluetoothAdapter mBluetoothAdapter;
